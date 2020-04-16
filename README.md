@@ -1,3 +1,2 @@
 # portfolio
-
-First commit
+portfolio initial commit
